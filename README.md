@@ -12,7 +12,7 @@ With this tool you don't need to be a programmer to create generative art.
     
 **Documentation**
 
-    Before you start, make sure your file structure looks something like this:
+   Before you start, make sure your file structure looks something like this:
 
 YOUR_PROJECT/  
 ├─ images/  
